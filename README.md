@@ -1,4 +1,4 @@
-# Demeter Game – Reach the End, Outsmart the AI
+# 🎮 Demeter Game – Reach the End, Outsmart the AI
 
 Demeter is a minimalist yet strategic board game developed in Python. Inspired by the core mechanics of chess, the game replaces the complexity of piece types with a simple but clever goal: Advance your pawns to the opposite side of the board before the AI does.\\
 
@@ -27,3 +27,15 @@ The AI in Demeter is naive, but not random. It evaluates all of its possible leg
 • It does not predict your moves or counter advanced strategies, but it does not play blindly either.
 
 •  As a result, it can create surprising pressure if you don’t block or outpace it.
+
+# ⚙️ Features
+
+•  Developed fully in Python
+
+•  Turn-based logic with clear board display in the terminal
+
+•  Clean codebase using Object-Oriented Programming
+
+•  Smart move validation and victory detection
+
+•  AI move analyzer evaluates all actions each turn to choose the optimal advance
