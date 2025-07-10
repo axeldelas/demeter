@@ -39,3 +39,11 @@ The AI in Demeter is naive, but not random. It evaluates all of its possible leg
 •  Smart move validation and victory detection
 
 •  AI move analyzer evaluates all actions each turn to choose the optimal advance
+
+# 🚀 How to Play
+
+To start the game, simply run the main script:\
+
+`python demeter.py`\
+
+No installation or setup is required — just Python 3.x.
