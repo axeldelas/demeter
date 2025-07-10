@@ -50,5 +50,5 @@ No installation or setup is required — just Python 3.x.
 
 # 🙌 Credits
 
-Thank you for checking out my project!
+Thank you for checking out my project!\
 Feel free to use it, explore it, and have fun! 😊
