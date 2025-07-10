@@ -42,9 +42,9 @@ The AI in Demeter is naive, but not random. It evaluates all of its possible leg
 
 # 🚀 How to Play
 
-To start the game, simply run the main script:\
+To start the game, simply run the main script:
 
-`python demeter.py`\
+`python demeter.py`
 
 No installation or setup is required — just Python 3.x.
 
