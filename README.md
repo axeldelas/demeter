@@ -12,9 +12,9 @@ Unlike chess, there are no kings, queens, or checkmates. The only rule is: move 
 
 • Each pawn can:
 
-  • Move forward one square.
+&nbsp;• Move forward one square.
 
-  • Jump over any adjacent pawn (your own or the AI’s), as long as the landing square is free.
+&nbsp;• Jump over any adjacent pawn (your own or the AI’s), as long as the landing square is free.
 
 • You win by getting any one of your pawns to reach the opponent’s baseline (the last row).
 
