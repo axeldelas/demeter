@@ -1,41 +1,24 @@
 # Demeter Game – Reach the End, Outsmart the AI
 
-Demeter is a strategic board game developed in Python during my Bachelor's degree and represents one of my first programming projects. Inspired by chess, the game focuses on a simple objective: reach the opposite side of the board before the AI. Through this project, I explored Python fundamentals, game development, and basic artificial intelligence concepts.
+A strategic board game developed in Python as part of my Bachelor's degree and one of my first programming projects.
 
-## :joystick: Gameplay Overview
+## :book: Objective
 
-- You control a row of pawns starting on your baseline.
-- The AI opponent controls its own pawns on the opposite side.
-- Each pawn can:
-    - Move forward one square.
-    - Jump over any adjacent pawn (your own or the AI’s), as long as the landing square is free.
-- You win by getting any one of your pawns to reach the opponent’s baseline (the last row).
+Reach the opposite side of the board before your opponent. The game can be played against another player or against an AI opponent.
 
-## :robot: Naive but Clever AI
+## :man_technologist: Programming
 
-The AI in Demeter is naive, but not random. It evaluates all of its possible legal moves each turn and selects the one that brings it closest to the goal.
+- Python
+- Game Logic
+- Basic Artificial Intelligence
 
-- It uses a simple heuristic: prioritize moves that advance its pawns furthest.
-- It does not predict your moves or counter advanced strategies, but it does not play blindly either.
-- As a result, it can create surprising pressure if you don’t block or outpace it.
+## :hammer_and_wrench: Skills Demonstrated
 
-## :gear: Features
+- Python Fundamentals
+- Problem Solving
+- Algorithm Design
+- Game Development
 
-- Developed fully in Python
-- Turn-based logic with clear board display in the terminal
-- Clean codebase using Object-Oriented Programming
-- Smart move validation and victory detection
-- AI move analyzer evaluates all actions each turn to choose the optimal advance
+## :camera: Screenshots
 
-## :rocket: How to Play
-
-To start the game, simply run the main script:
-
-`python demeter.py`
-
-No installation or setup is required — just Python 3.x.
-
-## :raised_hands: Credits
-
-Thank you for checking out my project!\
-Feel free to use it, explore it, and have fun! :relaxed:
+See the /screenshots folder.
