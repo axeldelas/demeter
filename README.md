@@ -18,13 +18,13 @@ A CLI-based strategic board game developed in Python where players compete to re
 
 The following demonstration showcases a typical game between a player and the AI, highlighting turn-based gameplay, move selection, and the progression toward the winning objective.
 
-![AI Victory](docs/demo/gameplay_overview.gif)
+![AI Victory](docs/demo/gameplay-overview.gif)
 
 ### IA Victory
 
 The following demonstration showcases a complete game in which the AI successfully reaches the opposite side of the board first.
 
-![AI Victory](docs/demo/endgame_by_ia.gif)
+![AI Victory](docs/demo/endgame-by-ia.gif)
 
 ## :gear: Features
 
@@ -43,3 +43,7 @@ To start the game, simply run the main script:
 `python demeter.py`
 
 No installation or setup is required — just Python 3.x.
+
+## :raised_hands: Credits
+
+Thank you for checking out my project!
