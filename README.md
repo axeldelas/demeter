@@ -2,7 +2,7 @@
 
 ## :book: Overview
 
-A strategic board game developed in Python where players compete to reach the opposite side of the board before their opponent. The game supports both Player vs Player and Player vs AI game modes.
+A CLI-based strategic board game developed in Python where players compete to reach the opposite side of the board before their opponent. The game supports both Player vs Player and Player vs AI game modes.
 
 ## :hammer_and_wrench: Skills Demonstrated
 
