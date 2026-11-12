@@ -18,13 +18,13 @@ A strategic board game developed in Python where players compete to reach the op
 
 The following demonstration showcases a typical game between a player and the AI, highlighting turn-based gameplay, move selection, and the progression toward the winning objective.
 
-![AI Victory](demo/gameplay_overview.gif)
+![AI Victory](docs/demo/gameplay_overview.gif)
 
 ### IA Victory
 
 The following demonstration showcases a complete game in which the AI successfully reaches the opposite side of the board first.
 
-![AI Victory](demo/endgame_by_ia.gif)
+![AI Victory](docs/demo/endgame_by_ia.gif)
 
 ## :gear: Features
 
