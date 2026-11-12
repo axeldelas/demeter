@@ -1,24 +1,45 @@
 # Demeter Game – Reach the End, Outsmart the AI
 
-A strategic board game developed in Python as part of my Bachelor's degree and one of my first programming projects.
+## :book: Overview
 
-## :book: Objective
-
-Reach the opposite side of the board before your opponent. The game can be played against another player or against an AI opponent.
-
-## :man_technologist: Programming
-
-- Python
-- Game Logic
-- Basic Artificial Intelligence
+A strategic board game developed in Python where players compete to reach the opposite side of the board before their opponent. The game supports both Player vs Player and Player vs AI game modes.
 
 ## :hammer_and_wrench: Skills Demonstrated
 
 - Python Fundamentals
-- Problem Solving
-- Algorithm Design
-- Game Development
+- Game Logic Implementation
+- Basic Artificial Intelligence
+- Algorithm Development
+- Troubleshooting
 
-## :camera: Screenshots
+## :rocket: Demo
 
-See the /screenshots folder.
+### Gameplay Overview
+
+The following demonstration showcases a typical game between a player and the AI, highlighting turn-based gameplay, move selection, and the progression toward the winning objective.
+
+![AI Victory](demo/gameplay_overview.gif)
+
+### IA Victory
+
+The following demonstration showcases a complete game in which the AI successfully reaches the opposite side of the board first.
+
+![AI Victory](demo/endgame_by_ia.gif)
+
+## :gear: Features
+
+- Player vs Player
+- Player vs AI
+- Turn-Based Gameplay
+- Strategic Movement System
+- Win Condition Detection
+- Move Tree Exploration
+- AI evaluates all legal moves and selects the best strategy to maximize its chances of winning
+
+## :video_game: How To Play
+
+To start the game, simply run the main script:
+
+`python demeter.py`
+
+No installation or setup is required — just Python 3.x.
